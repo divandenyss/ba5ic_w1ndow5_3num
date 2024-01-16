@@ -1,5 +1,5 @@
 # w1ndow5_3num
-This repo contains multiple commands that will aid in enumerating Windows OS. 
+This repo contains multiple commands that will aid in enumerating Windows OS.  *For educational purposes only and should be used ethically.
 
 # System Enumeration
 
